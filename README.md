@@ -1,5 +1,3 @@
-# SKM
-Statisztikai Kutatói Műhely Github oldala
 A KSH Módszertani főosztálya és az MSZT Fényes Elek Társadalomstatisztikai szakosztálya intézményközi szakmai együttműködési programot kezdeményez az adathozzáféréssel, adatminőséggel és adathasznosítással kapcsolatos módszertani kérdések témakörben. A hosszabb távra tervezett program nyitott, amelyben mindazok a szakemberek, illetve kutatóintézetek részt vehetnek, amelyek érdekeltek a társadalom,- illetve gazdaságstatisztika adatállományok kutatási, vagy közcélú hasznosításában.
 
 A program célja
